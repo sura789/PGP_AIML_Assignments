@@ -1,46 +1,86 @@
+---
+
 # PGP_AIML_Assignments
 
-This repository contains all 11 assignments I completed during the Post Graduate Program (PGP) in Artificial Intelligence and Machine Learning (AIML) from Great Learning (2021-2022). These Python-based assignments showcase various machine learning, data science, and AI concepts that I learned and implemented throughout the course.
+This repository contains all 11 assignments I completed during the **Post Graduate Program (PGP) in Artificial Intelligence and Machine Learning (AIML)** from **Great Learning** (July 2021 - March 2023). These assignments reflect the skills, techniques, and tools I mastered during the program and showcase practical implementations of machine learning and artificial intelligence concepts.
 
-## Assignment Summaries
+[**View My Verified Certificate**](https://www.mygreatlearning.com/eportfolio/surajit-pal)
 
-1. **Assignment 1: Exploratory Data Analysis (EDA)**  
-   Conducted in-depth analysis on a structured dataset, addressing missing values, visualizing distributions, identifying anomalies, and deriving initial insights. This assignment laid the foundation for understanding the dataset and preparing it for further analysis.
+[**Connect with Me on LinkedIn**](https://www.linkedin.com/in/surajitpal21)
 
-2. **Assignment 2: Regression Analysis**  
-   Developed and evaluated regression models, including simple and multiple linear regression, to predict continuous target variables. Applied techniques such as feature selection, multicollinearity checks, and residual analysis to ensure model robustness.
+---
 
-3. **Assignment 3: Classification Techniques**  
-   Explored supervised learning methods for classification tasks. Implemented algorithms like Logistic Regression, Decision Trees, and Support Vector Machines (SVM), and evaluated them using confusion matrices, accuracy, precision, recall, and F1-scores.
+## Assignments and Course Projects
 
-4. **Assignment 4: Clustering Methods**  
-   Applied unsupervised learning techniques to segment data into meaningful groups. Used K-Means, Hierarchical clustering, and DBSCAN algorithms, analyzing the formed clusters with metrics such as silhouette scores and elbow method for optimal cluster determination.
+### 1. **Applied Statistics** (August 2021)
+- **Course**: Applied Statistics
+- **Summary**: Performed plotting, data visualization, and hypothesis testing to address real-world business problems. Analyzed past tournaments for investment decisions and startup performances for the Startup Battlefield competition.
+- **Skills**: EDA, Data Visualization, Statistical Inference, Hypothesis Testing, Python.
 
-5. **Assignment 5: Dimensionality Reduction**  
-   Reduced the complexity of datasets while preserving key information. Techniques like Principal Component Analysis (PCA) were employed to visualize high-dimensional data and enhance model performance by reducing overfitting.
+### 2. **Supervised Learning** (October 2021)
+- **Course**: Supervised Learning
+- **Summary**: Predicted patient conditions based on biomechanics test results and created a focused marketing model to identify potential customers.
+- **Skills**: Logistic Regression, Naive Bayes, KNN, Classification.
 
-6. **Assignment 6: Time Series Analysis**  
-   Analyzed time-dependent data to identify patterns like trends and seasonality. Built forecasting models using techniques such as ARIMA, SARIMA, and Exponential Smoothing to predict future values accurately.
+### 3. **Ensemble Techniques** (October 2021)
+- **Course**: Ensemble Techniques
+- **Summary**: Built a GUI-based prediction model for customer churn analysis using supervised learning and ensemble modeling techniques for a telecom company.
+- **Skills**: EDA, Logistic Regression, Decision Trees, Random Forest, Boosting.
 
-7. **Assignment 7: Natural Language Processing (NLP)**  
-   Processed and analyzed textual data. Implemented tokenization, stemming, and lemmatization techniques, and performed sentiment analysis and topic modeling using tools like NLTK and spaCy.
+### 4. **Unsupervised Learning** (November 2021)
+- **Course**: Unsupervised Learning
+- **Summary**: Clustered vehicles based on fuel consumption, generated synthetic data, dimensionally reduced data for supervised learning, and designed a performance ranking model for IPL cricket players.
+- **Skills**: Clustering, PCA, SVM, Classification, Python.
 
-8. **Assignment 8: Neural Networks and Deep Learning**  
-   Built and trained deep learning models using frameworks like TensorFlow and Keras. Covered architectures such as Fully Connected Neural Networks (FNN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN) to solve tasks like image recognition and sequence prediction.
+### 5. **Feature Engineering & Model Tuning** (December 2021)
+- **Course**: Featurization, Model Selection & Tuning
+- **Summary**: Built a supervised learning prediction model for a semiconductor company to identify process yield factors and optimize production costs.
+- **Skills**: PCA, Feature Selection, Model Tuning, Grid Search, Supervised Learning.
 
-9. **Assignment 9: Reinforcement Learning**  
-   Delved into reinforcement learning, focusing on Q-Learning and policy optimization techniques. Simulated environments where agents learned optimal strategies through trial and error to maximize rewards.
+### 6. **Recommendation Systems** (January 2022)
+- **Course**: Recommendation Systems
+- **Summary**: Implemented popularity-based and collaborative filtering techniques to build a recommendation system for mobile handsets in an e-commerce setting.
+- **Skills**: Collaborative Filtering, Recommender Systems, Python.
 
-10. **Assignment 10: Model Deployment**  
-    Explored the end-to-end lifecycle of deploying machine learning models into production. Covered topics like API creation using Flask, model versioning, and integrating models with real-world applications.
+### 7. **Neural Networks & Deep Learning** (February 2022)
+- **Course**: Neural Networks and Deep Learning
+- **Summary**: Built neural network-based GUI applications for regressors and classifiers. Developed an image classifier for digit recognition from street-level photographs.
+- **Skills**: Neural Networks, Deep Learning, TensorFlow, Image Recognition, GUI.
 
-11. **Assignment 11: Capstone Project**  
-    The culmination of the PGP AIML program, this capstone project integrated multiple AI and ML concepts to address a real-world problem. It involved end-to-end data handling, from preprocessing to model building and deployment, showcasing a holistic application of the learned skills.
+### 8. **CNN Architecture and Transfer Learning** (March 2022)
+- **Course**: Computer Vision
+- **Summary**: Implemented CNNs for plant species classification, image dataset curation, and strategy development for production model maintenance.
+- **Skills**: CNN, Transfer Learning, TensorFlow, Computer Vision, GUI.
+
+### 9. **Advanced Computer Vision - Object Detection and Recognition** (April 2022)
+- **Course**: Computer Vision
+- **Summary**: Built object detection models for human face identification and automated cast/crew information retrieval for streaming platforms.
+- **Skills**: CNN, Siamese Networks, Object Detection, TensorFlow, Triplet Loss.
+
+### 10. **Statistical Natural Language Processing** (May 2022)
+- **Course**: Natural Language Processing
+- **Summary**: Developed text classifiers for blog categorization and semi-rule-based chatbot automation for a digital marketing company.
+- **Skills**: NLP, Text Preprocessing, RNN, LSTM, Classification, TensorFlow.
+
+### 11. **Sequential Natural Language Processing** (June 2022)
+- **Course**: Natural Language Processing
+- **Summary**: Built sequential NLP models for IMDB sentiment analysis and sarcasm detection, leveraging advanced word embedding and neural network techniques.
+- **Skills**: RNN, LSTM, GloVe, TensorFlow, Sentiment Analysis.
+
+---
+
+## Skills and Tools Mastered
+- **Machine Learning Techniques**: Supervised Learning, Unsupervised Learning, Ensemble Modeling, Recommendation Systems.
+- **Natural Language Processing (NLP)**: Text Preprocessing, RNN, LSTM, Sentiment Analysis, Chatbot Automation.
+- **Deep Learning**: CNN, Neural Networks, Transfer Learning.
+- **Statistical Techniques**: Hypothesis Testing, PCA, Clustering.
+- **Frameworks and Libraries**: TensorFlow, Python, Scikit-learn, NLTK, SpaCy.
 
 ---
 
 ## Explore My E-Portfolio
 
-For a comprehensive overview of my learning journey, projects, and accomplishments during the program, please visit my e-portfolio:
-
+For a detailed account of my learning journey, skills, and projects, please visit my e-portfolio:  
 [**Surajit Pal - Great Learning E-Portfolio**](https://www.mygreatlearning.com/eportfolio/surajit-pal)
+
+---
